@@ -1,0 +1,91 @@
+[{
+    "Name": "No Permissions",
+    "PermissionNumber": 0,
+    "Permissions": {
+        "NeededAddPermissions": 4,
+        "NeededRemovePermissions": 4,
+        "AddPermissionsPower": 0,
+        "RemovePermissionsPower": 0
+    }
+}, {
+    "Name": "Applicant",
+    "PermissionNumber": 1,
+    "Permissions": {
+        "NeededAddPermissions": 4,
+        "NeededRemovePermissions": 4,
+        "AddPermissionsPower": 0,
+        "RemovePermissionsPower": 0
+    }
+}, {
+    "Name": "Member",
+    "PermissionNumber": 2,
+    "Permissions": {
+        "NeededAddPermissions": 4,
+        "NeededRemovePermissions": 4,
+        "AddPermissionsPower": 0,
+        "RemovePermissionsPower": 0
+    }
+}, {
+    "Name": "Field Training Officer",
+    "PermissionNumber": 3,
+    "Permissions": {
+        "NeededAddPermissions": 5,
+        "NeededRemovePermissions": 5,
+        "AddPermissionsPower": 4,
+        "RemovePermissionsPower": 4
+    }
+}, {
+    "Name": "Staff in Training",
+    "PermissionNumber": 4,
+    "Permissions": {
+        "NeededAddPermissions": 6,
+        "NeededRemovePermissions": 6,
+        "AddPermissionsPower": 4,
+        "RemovePermissionsPower": 4
+    }
+}, {
+    "Name": "Staff",
+    "PermissionNumber": 5,
+    "Permissions": {
+        "NeededAddPermissions": 7,
+        "NeededRemovePermissions": 7,
+        "AddPermissionsPower": 5,
+        "RemovePermissionsPower": 5
+    }
+}, {
+    "Name": "Senior Staff",
+    "PermissionNumber": 6,
+    "Permissions": {
+        "NeededAddPermissions": 7,
+        "NeededRemovePermissions": 7,
+        "AddPermissionsPower": 5,
+        "RemovePermissionsPower": 5
+    }
+}, {
+    "Name": "Administration",
+    "PermissionNumber": 7,
+    "Permissions": {
+        "NeededAddPermissions": 8,
+        "NeededRemovePermissions": 8,
+        "AddPermissionsPower": 7,
+        "RemovePermissionsPower": 7
+    }
+}, {
+    "Name": "Head Administration",
+    "PermissionNumber": 8,
+    "Permissions": {
+        "NeededAddPermissions": 9,
+        "NeededRemovePermissions": 9,
+        "AddPermissionsPower": 100,
+        "RemovePermissionsPower": 100
+    }
+}, {
+    "Name": "Master Permissions",
+    "PermissionNumber": 9,
+    "Permissions": {
+        "NeededAddPermissions": 9,
+        "NeededRemovePermissions": 9,
+        "AddPermissionsPower": 100,
+        "RemovePermissionsPower": 100
+    }
+}]
