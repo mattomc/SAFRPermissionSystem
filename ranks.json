@@ -1,4 +1,13 @@
 [{
+    "Name": "Banned",
+    "PermissionNumber": -1,
+    "Permissions": {
+        "NeededAddPermissions": 7,
+        "NeededRemovePermissions": 7,
+        "AddPermissionsPower": 0,
+        "RemovePermissionsPower": 0
+    }
+},{
     "Name": "No Permissions",
     "PermissionNumber": 0,
     "Permissions": {
