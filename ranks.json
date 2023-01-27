@@ -1,100 +1,205 @@
 [{
-    "Name": "Banned",
-    "PermissionNumber": -1,
-    "Permissions": {
-        "NeededAddPermissions": 7,
-        "NeededRemovePermissions": 7,
-        "AddPermissionsPower": 0,
-        "RemovePermissionsPower": 0
-    }
+  "_id": {
+    "$oid": "61b2b0c7605245221c748001"
+  },
+  "Name": "Applicant",
+  "PermissionNumber": 0,
+  "Permissions": {
+    "NeededAddPermissions": 4,
+    "NeededRemovePermissions": 4,
+    "AddPermissionsPower": 0,
+    "RemovePermissionsPower": 0
+  },
+  "Badge": {
+    "BadgeName": "Applicant",
+    "BadgeColor": "success",
+    "BadgeTextColor": ""
+  }
 },{
-    "Name": "No Permissions",
-    "PermissionNumber": 0,
-    "Permissions": {
-        "NeededAddPermissions": 4,
-        "NeededRemovePermissions": 4,
-        "AddPermissionsPower": 0,
-        "RemovePermissionsPower": 0
-    }
-}, {
-    "Name": "Applicant",
-    "PermissionNumber": 1,
-    "Permissions": {
-        "NeededAddPermissions": 4,
-        "NeededRemovePermissions": 4,
-        "AddPermissionsPower": 0,
-        "RemovePermissionsPower": 0
-    }
-}, {
-    "Name": "Member",
-    "PermissionNumber": 2,
-    "Permissions": {
-        "NeededAddPermissions": 4,
-        "NeededRemovePermissions": 4,
-        "AddPermissionsPower": 0,
-        "RemovePermissionsPower": 0
-    }
-}, {
-    "Name": "Field Training Officer",
-    "PermissionNumber": 3,
-    "Permissions": {
-        "NeededAddPermissions": 5,
-        "NeededRemovePermissions": 5,
-        "AddPermissionsPower": 4,
-        "RemovePermissionsPower": 4
-    }
-}, {
-    "Name": "Staff in Training",
-    "PermissionNumber": 4,
-    "Permissions": {
-        "NeededAddPermissions": 6,
-        "NeededRemovePermissions": 6,
-        "AddPermissionsPower": 4,
-        "RemovePermissionsPower": 4
-    }
-}, {
-    "Name": "Staff",
-    "PermissionNumber": 5,
-    "Permissions": {
-        "NeededAddPermissions": 7,
-        "NeededRemovePermissions": 7,
-        "AddPermissionsPower": 5,
-        "RemovePermissionsPower": 5
-    }
-}, {
-    "Name": "Senior Staff",
-    "PermissionNumber": 6,
-    "Permissions": {
-        "NeededAddPermissions": 7,
-        "NeededRemovePermissions": 7,
-        "AddPermissionsPower": 5,
-        "RemovePermissionsPower": 5
-    }
-}, {
-    "Name": "Administration",
-    "PermissionNumber": 7,
-    "Permissions": {
-        "NeededAddPermissions": 8,
-        "NeededRemovePermissions": 8,
-        "AddPermissionsPower": 7,
-        "RemovePermissionsPower": 7
-    }
-}, {
-    "Name": "Head Administration",
-    "PermissionNumber": 8,
-    "Permissions": {
-        "NeededAddPermissions": 9,
-        "NeededRemovePermissions": 9,
-        "AddPermissionsPower": 100,
-        "RemovePermissionsPower": 100
-    }
-}, {
-    "Name": "Master Permissions",
-    "PermissionNumber": 9,
-    "Permissions": {
-        "NeededAddPermissions": 9,
-        "NeededRemovePermissions": 9,
-        "AddPermissionsPower": 100,
-        "RemovePermissionsPower": 100
-    }
+  "_id": {
+    "$oid": "61b2b0c7605245221c748002"
+  },
+  "Name": "Recruit",
+  "PermissionNumber": 1,
+  "Permissions": {
+    "NeededAddPermissions": 4,
+    "NeededRemovePermissions": 4,
+    "AddPermissionsPower": 0,
+    "RemovePermissionsPower": 0
+  },
+  "Badge": {
+    "BadgeName": "Recruit",
+    "BadgeColor": "success",
+    "BadgeTextColor": ""
+  }
+},{
+  "_id": {
+    "$oid": "61b2b0c7605245221c748003"
+  },
+  "Name": "Member",
+  "PermissionNumber": 2,
+  "Permissions": {
+    "NeededAddPermissions": 4,
+    "NeededRemovePermissions": 4,
+    "AddPermissionsPower": 0,
+    "RemovePermissionsPower": 0
+  },
+  "Badge": {
+    "BadgeName": "Member",
+    "BadgeColor": "primary",
+    "BadgeTextColor": ""
+  }
+},{
+  "_id": {
+    "$oid": "61b2b0c7605245221c748004"
+  },
+  "Name": "Field Training Officer",
+  "PermissionNumber": 3,
+  "Permissions": {
+    "NeededAddPermissions": 4,
+    "NeededRemovePermissions": 4,
+    "AddPermissionsPower": 4,
+    "RemovePermissionsPower": 4
+  },
+  "Badge": {
+    "BadgeName": "",
+    "BadgeColor": "",
+    "BadgeTextColor": ""
+  }
+},{
+  "_id": {
+    "$oid": "61b2b0c7605245221c748005"
+  },
+  "Name": "Staff in Training",
+  "PermissionNumber": 4,
+  "Permissions": {
+    "NeededAddPermissions": 6,
+    "NeededRemovePermissions": 6,
+    "AddPermissionsPower": 4,
+    "RemovePermissionsPower": 4
+  },
+  "Badge": {
+    "BadgeName": "Staff in Training",
+    "BadgeColor": "primary",
+    "BadgeTextColor": ""
+  }
+},{
+  "_id": {
+    "$oid": "61b2b0c7605245221c748006"
+  },
+  "Name": "Staff",
+  "PermissionNumber": 5,
+  "Permissions": {
+    "NeededAddPermissions": 7,
+    "NeededRemovePermissions": 7,
+    "AddPermissionsPower": 5,
+    "RemovePermissionsPower": 5
+  },
+  "Badge": {
+    "BadgeName": "Staff",
+    "BadgeColor": "warning",
+    "BadgeTextColor": ""
+  }
+},{
+  "_id": {
+    "$oid": "61b2b0c7605245221c748007"
+  },
+  "Name": "Senior Staff",
+  "PermissionNumber": 6,
+  "Permissions": {
+    "NeededAddPermissions": 7,
+    "NeededRemovePermissions": 7,
+    "AddPermissionsPower": 5,
+    "RemovePermissionsPower": 5
+  },
+  "Badge": {
+    "BadgeName": "Senior Staff",
+    "BadgeColor": "danger",
+    "BadgeTextColor": ""
+  }
+},{
+  "_id": {
+    "$oid": "61b2b0c7605245221c748008"
+  },
+  "Name": "Administration",
+  "PermissionNumber": 7,
+  "Permissions": {
+    "NeededAddPermissions": 8,
+    "NeededRemovePermissions": 8,
+    "AddPermissionsPower": 7,
+    "RemovePermissionsPower": 7
+  },
+  "Badge": {
+    "BadgeName": "Administration",
+    "BadgeColor": "danger",
+    "BadgeTextColor": ""
+  }
+},{
+  "_id": {
+    "$oid": "63d276ebd45bb65e076e6d2e"
+  },
+  "Name": "Community Administration",
+  "PermissionNumber": 7.5,
+  "Permissions": {
+    "NeededAddPermissions": 8,
+    "NeededRemovePermissions": 8,
+    "AddPermissionsPower": 8,
+    "RemovePermissionsPower": 8
+  },
+  "Badge": {
+    "BadgeName": "Community Administration",
+    "BadgeColor": "dark",
+    "BadgeTextColor": ""
+  }
+},{
+  "_id": {
+    "$oid": "61b2b0c7605245221c748009"
+  },
+  "Name": "Head Administration",
+  "PermissionNumber": 8,
+  "Permissions": {
+    "NeededAddPermissions": 8,
+    "NeededRemovePermissions": 8,
+    "AddPermissionsPower": 100,
+    "RemovePermissionsPower": 100
+  },
+  "Badge": {
+    "BadgeName": "Head Administration",
+    "BadgeColor": "dark",
+    "BadgeTextColor": ""
+  }
+},{
+  "_id": {
+    "$oid": "61b2b0c7605245221c74800a"
+  },
+  "Name": "Website Master",
+  "PermissionNumber": 9,
+  "Permissions": {
+    "NeededAddPermissions": 9,
+    "NeededRemovePermissions": 9,
+    "AddPermissionsPower": 100,
+    "RemovePermissionsPower": 100
+  },
+  "Badge": {
+    "BadgeName": "Website Master",
+    "BadgeColor": "secondary",
+    "BadgeTextColor": ""
+  }
+},{
+  "_id": {
+    "$oid": "622d26dcfeecd6d0cc9e07eb"
+  },
+  "Name": "Master Permissions",
+  "PermissionNumber": 10,
+  "Permissions": {
+    "NeededAddPermissions": 10,
+    "NeededRemovePermissions": 10,
+    "AddPermissionsPower": 100,
+    "RemovePermissionsPower": 100
+  },
+  "Badge": {
+    "BadgeName": "[MASTER]",
+    "BadgeColor": "secondary",
+    "BadgeTextColor": ""
+  }
 }]
